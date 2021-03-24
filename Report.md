@@ -7,20 +7,18 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* Банковские карты имеющие номера более или менее 16 цифр (карты банков American Express, Diners Club - Carte Blanche, Diners Club - International) не подходят для платежей (см. скриншот.
-  ![javadz1 1](https://user-images.githubusercontent.com/80807996/112172342-7381fd00-8c16-11eb-98ba-a957c73c93e8.png) )
+* Банковские карты банков (American Express, Diners Club - Carte Blanche, Diners Club - International) имеющие номера более или менее 16 цифр не подходят для платежей. [(См. Баг-репорт)](https://github.com/Olegun56/DZ1-Java/issues/1)
 
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Код из ДЗ
+* [Код из ДЗ](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 
 В качестве тестовых данных использовались данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
-* Банковские карты имеющие 16 цифр в номере счета валидны к оплате (см. скрин.
-  ![javadz1](https://user-images.githubusercontent.com/80807996/112183578-3589d680-8c20-11eb-9221-fe42905ec900.png) )
+
 
 
 
