@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* Банковские карты банков (American Express, Diners Club - Carte Blanche, Diners Club - International) имеющие номера более или менее 16 цифр не подходят для платежей. [(См. Баг-репорт)](https://github.com/Olegun56/DZ1-Java/issues/1)
+* [Банковские карты банков (American Express, Diners Club - Carte Blanche, Diners Club - International) имеющие номера более или менее 16 цифр не подходят для платежей.](https://github.com/Olegun56/DZ1-Java/issues/1)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-Тестирование производилось в следующем окружении:
+### Тестирование производилось в следующем окружении:
 * Windows 7 x64
 * Java 11
 * IntelliJ IDEA Community Edition 2020.3
